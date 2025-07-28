@@ -10,10 +10,6 @@ A real-time Python application that allows users to control system volume throug
 - FPS (Frames Per Second) display
 - Visual feedback using OpenCV drawings
 
-## 📷 Demo
-
-https://github.com/yourusername/control-volume-hand-gesture/assets/demo.gif (You can upload a short screen recording here)
-
 ## 🧠 How It Works
 
 1. Captures video feed using OpenCV.
