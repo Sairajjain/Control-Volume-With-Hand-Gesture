@@ -39,10 +39,10 @@ This project not only demonstrates how gesture-based control can be effectively 
 ## 📸 Screenshots
 
 ### ➖ Volume at 0%
-![Low Volume](images/low_volume.png)
+![Low Volume](images/Low Volume.png)
 
 ### ➕ Volume at 100%
-![High Volume](images/high_volume.png)
+![High Volume](images/High Volume.png)
 
 > Make sure these images are inside an `images/` folder in your project directory.
 
